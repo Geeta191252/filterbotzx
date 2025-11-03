@@ -69,8 +69,8 @@ OWNER_UPI_ID = environ.get('OWNER_UPI_ID', '8504021912@slc')
 # ============================
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ipopcorn8bot_db_user:H36FmHgDgdwKFpCT@cluster0.og1jvc5.mongodb.net/?appName=Cluster0")
 DATABASE_URI2 = environ.get('DATABASE_URI2', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "cloud0")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'cloud0')
+DATABASE_NAME = environ.get('DATABASE_NAME', "Clusters0")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Clusters0')
 
 # ============================
 # Movie Notification & Update Settings
